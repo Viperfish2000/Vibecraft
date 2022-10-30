@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vscomod:item/metal_straw_matcha_boba_tea"
+    }
+}

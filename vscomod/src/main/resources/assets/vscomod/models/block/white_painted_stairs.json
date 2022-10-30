@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "vscomod:block/white_painted_planks",
+        "top": "vscomod:block/white_painted_planks",
+        "side": "vscomod:block/white_painted_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vscomod:item/pink_and_white_flower_crown"
+    }
+}

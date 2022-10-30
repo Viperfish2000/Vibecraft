@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/metal_straw_berry_smoothie" },
+        "facing=west": { "model": "vscomod:block/metal_straw_berry_smoothie", "y": 90 },
+        "facing=north": { "model": "vscomod:block/metal_straw_berry_smoothie", "y": 180 },
+        "facing=east": { "model": "vscomod:block/metal_straw_berry_smoothie", "y": 270 }
+    }
+}

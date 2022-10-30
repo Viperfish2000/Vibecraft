@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "vscomod:block/pie_side",
+        "bottom": "vscomod:block/pie_bottom",
+        "top": "vscomod:block/pie_top",
+        "side": "vscomod:block/pie_side",
+        "inside": "vscomod:block/pie_inner"
+    },
+    "elements": [
+        {   "from": [ 3, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

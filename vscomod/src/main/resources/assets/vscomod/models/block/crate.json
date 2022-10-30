@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "vscomod:block/crate_bottom",
+        "top": "vscomod:block/crate_top",
+        "side": "vscomod:block/crate_side"
+    }
+}

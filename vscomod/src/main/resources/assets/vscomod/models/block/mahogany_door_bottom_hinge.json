@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "vscomod:block/mahogany_door_bottom",
+        "top": "vscomod:block/mahogany_door_top"
+    }
+}

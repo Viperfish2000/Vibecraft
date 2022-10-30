@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "vscomod:block/wall_plant" },
+        "facing=east": { "model": "vscomod:block/wall_plant", "y": 90 },
+        "facing=south": { "model": "vscomod:block/wall_plant", "y": 180 },
+        "facing=west": { "model": "vscomod:block/wall_plant", "y": 270 }
+    }
+}

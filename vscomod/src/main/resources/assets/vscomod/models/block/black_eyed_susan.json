@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "vscomod:block/black-eyed_susan"
+    }
+}

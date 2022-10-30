@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "vscomod:succulent_tall"
+		},
+		{
+			"item": "vscomod:succulent_spiky"
+		},
+		{
+			"item": "vscomod:succulent_short"
+		}
+	],
+	"result": {
+		"item": "vscomod:succulent_box"
+	}
+}

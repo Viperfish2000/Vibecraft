@@ -1,0 +1,6 @@
+{
+    "parent": "vscomod:item/print",
+    "textures": {
+        "0": "vscomod:item/apple_print"
+    }
+}

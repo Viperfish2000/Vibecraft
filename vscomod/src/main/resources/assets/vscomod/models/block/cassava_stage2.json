@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "vscomod:block/cassava_stage2"
+    }
+}

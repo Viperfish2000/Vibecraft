@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "vscomod:roasted_coffee_beans"
+    },
+	{
+      "item": "minecraft:milk_bucket"
+    },
+	{
+      "item": "vscomod:mug"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "vscomod:latte"
+  }
+}

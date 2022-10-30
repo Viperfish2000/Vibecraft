@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "XXX",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "X": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "result": {
+    "item": "vscomod:blue_plaid",
+    "count": 9
+  }
+}

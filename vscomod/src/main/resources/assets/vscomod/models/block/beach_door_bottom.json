@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "vscomod:block/beach_door_bottom",
+        "top": "vscomod:block/beach_door_top"
+    }
+}

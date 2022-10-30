@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vscomod:scrunchie_white"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+	{
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "result": {
+    "item": "vscomod:scrunchie_striped_pink"
+  }
+}

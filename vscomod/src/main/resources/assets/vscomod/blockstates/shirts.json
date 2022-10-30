@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/shirts" },
+        "facing=west": { "model": "vscomod:block/shirts", "y": 90 },
+        "facing=north": { "model": "vscomod:block/shirts", "y": 180 },
+        "facing=east": { "model": "vscomod:block/shirts", "y": 270 }
+    }
+}

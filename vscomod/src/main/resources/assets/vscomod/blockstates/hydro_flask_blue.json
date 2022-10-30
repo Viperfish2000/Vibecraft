@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/hydro_flask_blue", "y": 180 },
+        "facing=west": { "model": "vscomod:block/hydro_flask_blue", "y": 270 },
+        "facing=north": { "model": "vscomod:block/hydro_flask_blue", "y": 0 },
+        "facing=east": { "model": "vscomod:block/hydro_flask_blue", "y": 90 }
+    }
+}

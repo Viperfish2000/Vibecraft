@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "#",
+    "X X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lantern"
+    },
+    "X": {
+      "item": "vscomod:mahogany_planks"
+    }
+  },
+  "result": {
+    "item": "vscomod:fan"
+  }
+}

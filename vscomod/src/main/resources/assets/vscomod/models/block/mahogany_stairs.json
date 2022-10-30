@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "vscomod:block/mahogany_planks",
+        "top": "vscomod:block/mahogany_planks",
+        "side": "vscomod:block/mahogany_planks"
+    }
+}

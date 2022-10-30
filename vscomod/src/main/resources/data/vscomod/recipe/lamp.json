@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "vscomod:white_lamp"
+    }
+  ],
+  "result": {
+    "item": "vscomod:lamp"
+  }
+}

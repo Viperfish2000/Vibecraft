@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vscomod:dragonfruit"
+    },
+    {
+      "item": "vscomod:glass"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "vscomod:dragonfruit_smoothie"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lantern"
+    },
+ "Y": {
+      "item": "vscomod:ash_planks"
+    },
+    "X": [
+      {
+        "item": "minecraft:white_wool"
+      }
+    ]
+  },
+  "result": {
+    "item": "vscomod:room_lamp",
+    "count": 1
+  }
+}

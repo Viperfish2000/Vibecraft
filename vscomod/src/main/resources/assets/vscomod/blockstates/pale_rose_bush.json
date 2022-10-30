@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "vscomod:block/pale_rose_bush_bottom" },
+        "half=upper":    { "model": "vscomod:block/pale_rose_bush_top" }
+    }
+}

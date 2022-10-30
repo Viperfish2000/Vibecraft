@@ -1,0 +1,23 @@
+modLoader="javafml" #mandatory
+loaderVersion="[24,)" #mandatory (24 is current forge version)
+credits="Thanks to Harry Talks for his amazing tutorials." #optional
+authors="Viperfish2000 and Anglerfish555" #optional
+logoFile="logo.png"
+[[mods]] #mandatory
+modId="vscomod" #mandatory
+version="0.2.1" #mandatory
+displayName="Vibecraft" #mandatory
+description='''Vibecraft, an aesthetic decoration mod'''
+[[dependencies.vscomod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[31,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.vscomod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "BAA",
+    "B B"
+  ],
+  "key": {
+    "A": {
+      "item": "vscomod:beach_planks"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "vscomod:chair"
+  }
+}

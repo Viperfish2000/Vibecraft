@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/matcha_boba_tea" },
+        "facing=west": { "model": "vscomod:block/matcha_boba_tea", "y": 90 },
+        "facing=north": { "model": "vscomod:block/matcha_boba_tea", "y": 180 },
+        "facing=east": { "model": "vscomod:block/matcha_boba_tea", "y": 270 }
+    }
+}

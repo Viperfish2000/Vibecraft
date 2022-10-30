@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": 
+    {
+        "all": "vscomod:block/white_painted_planks"
+    }
+}

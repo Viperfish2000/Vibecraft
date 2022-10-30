@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "vscomod:block/blue_stripes" },
+        "axis=z": { "model": "vscomod:block/blue_stripes", "x": 90 },
+        "axis=x": { "model": "vscomod:block/blue_stripes", "x": 90, "y": 90 }
+    }
+}

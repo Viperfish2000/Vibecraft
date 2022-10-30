@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:string",
+      "item": "minecraft:white_tulip",
+      "item": "minecraft:pink_tulip"
+    }
+  ],
+  "result": {
+    "item": "vscomod:pink_and_white_flower_crown"
+  }
+}

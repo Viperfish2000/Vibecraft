@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "X": {
+      "item": "slime_block"
+    }
+  },
+  "result": {
+    "item": "vscomod:trampoline",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "vscomod:block/dragonfruit_stage0" },
+        "age=1": { "model": "vscomod:block/dragonfruit_stage0" },
+        "age=2": { "model": "vscomod:block/dragonfruit_stage1" },
+        "age=3": { "model": "vscomod:block/dragonfruit_stage1" },
+        "age=4": { "model": "vscomod:block/dragonfruit_stage1" },
+        "age=5": { "model": "vscomod:block/dragonfruit_stage2" },
+        "age=6": { "model": "vscomod:block/dragonfruit_stage2" },
+        "age=7": { "model": "vscomod:block/dragonfruit_stage3" }
+    }
+}

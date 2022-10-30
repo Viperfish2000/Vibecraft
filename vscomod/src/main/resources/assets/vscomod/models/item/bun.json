@@ -1,0 +1,7 @@
+{
+    "parent": "item/leather_chestplate",
+    "textures": {
+        "layer0": "vscomod:item/rainbow_bun",
+        "layer1": "vscomod:item/nothing"
+    }
+}

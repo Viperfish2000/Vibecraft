@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "vscomod:tapioca"
+    },
+	{
+      "item": "vscomod:cup"
+    },
+    {
+      "item": "vscomod:black_tea_leaves"
+    }
+  ],
+  "result": {
+    "item": "vscomod:thai_boba_tea"
+  }
+}

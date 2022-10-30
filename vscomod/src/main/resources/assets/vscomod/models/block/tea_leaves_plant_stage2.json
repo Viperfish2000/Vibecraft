@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "vscomod:block/tea_leaves_stage2"
+    }
+}

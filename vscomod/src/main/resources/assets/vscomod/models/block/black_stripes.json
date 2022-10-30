@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "vscomod:block/black_stripes",
+        "side": "vscomod:block/black_stripes"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "bites=0": { "model": "vscomod:block/pie" },
+        "bites=1": { "model": "vscomod:block/pie_slice1" },
+        "bites=2": { "model": "vscomod:block/pie_slice2" },
+        "bites=3": { "model": "vscomod:block/pie_slice3" },
+        "bites=4": { "model": "vscomod:block/pie_slice4" },
+        "bites=5": { "model": "vscomod:block/pie_slice5" },
+        "bites=6": { "model": "vscomod:block/pie_slice6" }
+    }
+}

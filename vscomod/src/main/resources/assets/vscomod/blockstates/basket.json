@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/basket", "y": 180 },
+        "facing=west": { "model": "vscomod:block/basket", "y": 270 },
+        "facing=north": { "model": "vscomod:block/basket", "y": 0 },
+        "facing=east": { "model": "vscomod:block/basket", "y": 90 }
+    }
+}

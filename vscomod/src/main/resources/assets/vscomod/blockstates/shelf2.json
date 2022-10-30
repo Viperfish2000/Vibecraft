@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "vscomod:block/shelf2" },
+        "facing=east": { "model": "vscomod:block/shelf2", "y": 90 },
+        "facing=south": { "model": "vscomod:block/shelf2", "y": 180 },
+        "facing=west": { "model": "vscomod:block/shelf2", "y": 270 }
+    }
+}

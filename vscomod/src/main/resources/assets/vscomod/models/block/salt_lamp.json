@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "block/spruce_planks",
+		"3": "vscomod:block/salt",
+		"particle": "vscomod:block/salt"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"north": {"uv": [2, 2, 6, 3], "texture": "#2"},
+				"east": {"uv": [12, 7, 16, 8], "texture": "#2"},
+				"south": {"uv": [2, 8, 6, 9], "texture": "#2"},
+				"west": {"uv": [11, 2, 15, 3], "texture": "#2"},
+				"up": {"uv": [3.5, 1.5, 5.5, 3.5], "texture": "#2"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#2"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [11, 6, 11],
+			"faces": {
+				"north": {"uv": [3, 0, 6, 2.5], "texture": "#3"},
+				"east": {"uv": [3, 0, 6, 2.5], "texture": "#3"},
+				"south": {"uv": [3, 0, 6, 2.5], "texture": "#3"},
+				"west": {"uv": [3, 0, 6, 2.5], "texture": "#3"},
+				"up": {"uv": [3, 3, 0, 0], "texture": "#3"},
+				"down": {"uv": [3, 3, 0, 6], "texture": "#3"}
+			}
+		},
+		{
+			"from": [5.25, 6, 5],
+			"to": [10.25, 8, 10],
+			"faces": {
+				"north": {"uv": [6, 4.5, 8.5, 5.5], "texture": "#3"},
+				"east": {"uv": [6, 4.5, 8.5, 5.5], "texture": "#3"},
+				"south": {"uv": [6, 4.5, 8.5, 5.5], "texture": "#3"},
+				"west": {"uv": [6, 4.5, 8.5, 5.5], "texture": "#3"},
+				"up": {"uv": [8.5, 2.5, 6, 0], "texture": "#3"},
+				"down": {"uv": [8.5, 6, 6, 8.5], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.25, 8, 6],
+			"to": [10.25, 10, 10],
+			"faces": {
+				"north": {"uv": [8.5, 0, 10.5, 1], "texture": "#3"},
+				"east": {"uv": [8.5, 0, 10.5, 1], "texture": "#3"},
+				"south": {"uv": [8.5, 0, 10.5, 1], "texture": "#3"},
+				"west": {"uv": [8.5, 0, 10.5, 1], "texture": "#3"},
+				"up": {"uv": [8, 4.5, 6, 2.5], "texture": "#3"},
+				"down": {"uv": [5, 8, 3, 10], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [0.59, 0.58, 0.57]
+		},
+		"head": {
+			"translation": [0, 12, 0]
+		},
+		"fixed": {
+			"translation": [0, 3.25, -5],
+			"scale": [2.45, 2.43, 2.4]
+		}
+	}
+}

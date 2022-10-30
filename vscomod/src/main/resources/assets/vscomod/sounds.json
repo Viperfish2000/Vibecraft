@@ -1,0 +1,315 @@
+    
+{
+
+ "entity.yoda.living": {
+        "category": "block",
+        "sounds": [
+		{
+         "name" : "vscomod:yoda1",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:yoda2",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:yoda3",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:yoda4",
+		"pitch" : 1.0
+		}
+	
+        ],
+        "subtitle": "vscomod:subtitles.yoda.living"
+    },
+ "entity.hedgehog.death": {
+        "category": "neutral",
+        "sounds": [
+		{
+         "name" : "vscomod:death",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:death",
+		"pitch" : 0.9
+		},
+		{
+         "name" : "vscomod:death",
+		"pitch" : 1.1
+		},
+		{
+         "name" : "vscomod:death",
+		"pitch" : 1.05
+		}
+        ],
+        "subtitle": "vscomod:subtitles.ukulele.strum"
+    },
+
+
+ "block.trampoline.fall": {
+        "category": "block",
+        "sounds": [
+		{
+         "name" : "vscomod:trampoline1",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:trampoline2",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:trampoline3",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:trampoline4",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:trampoline5",
+		"pitch" : 1.0
+		}
+        ],
+        "subtitle": "vscomod:subtitles.trampoline.fall"
+    },
+ "entity.hedgehog.whine": {
+        "category": "neutral",
+        "sounds": [
+		{
+         "name" : "vscomod:wimper",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:wimper",
+		"pitch" : 0.9
+		},
+		{
+         "name" : "vscomod:wimper",
+		"pitch" : 1.1
+		},
+		{
+         "name" : "vscomod:wimper",
+		"pitch" : 1.05
+		}
+        ],
+        "subtitle": "vscomod:subtitles.ukulele.strum"
+    },
+ "entity.hedgehog.hurt": {
+        "category": "neutral",
+        "sounds": [
+		{
+         "name" : "vscomod:hurt",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:hurt",
+		"pitch" : 0.9
+		},
+		{
+         "name" : "vscomod:hurt",
+		"pitch" : 1.1
+		},
+		{
+         "name" : "vscomod:hurt",
+		"pitch" : 1.05
+		}
+        ],
+        "subtitle": "vscomod:subtitles.ukulele.strum"
+    },
+ "ukulele.strum": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+         "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+        "name" : "vscomod:strum",
+		"pitch" : 1.0
+		},
+		{
+        "name" : "vscomod:strum",
+		"pitch" : 1.0
+		}
+        ],
+        "subtitle": "vscomod:subtitles.ukulele.strum"
+    },
+ "disc.shine_on_top": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:shine_on_top",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.disc.shine_on_top"
+    },
+ "disc.sunflower_feelings": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:sunflower_feelings",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.disc.sunflower_feelings"
+    },
+ "disc.oblivion": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:oblivion",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.disc.oblivion"
+    },
+ "disc.ultimately": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:ultimately",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.disc.ultimately"
+    },
+ "disc.bubblegum": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:bubblegum",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.bubblegum"
+    },
+ "disc.airplane_mode": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "vscomod:airplane_mode",
+		"pitch" : 1
+		}
+        ],
+        "subtitle": "vscomod:subtitles.disc.airplane_mode"
+    },
+"stalker.attack": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:stalker_attack",
+		"pitch" : 0.8
+		},
+		{
+        "name" : "minenautica:stalker_attack",
+		"pitch" : 1
+		},
+		{
+        "name" : "minenautica:stalker_attack",
+		"pitch" : 1.2
+		}
+        ],
+        "subtitle": "minenautica:subtitles.stalker.attack"
+    },
+"skyray.ambient": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:skyray_ambient",
+		"pitch" : 1
+		},
+		{
+         "name" : "minenautica:skyray_ambient_2",
+		"pitch" : 1
+		},
+		{
+         "name" : "minenautica:skyray_ambient_3",
+		"pitch" : 1
+		},
+        {
+         "name" : "minenautica:skyray_ambient_4",
+		"pitch" : 1
+		},
+		{
+         "name" : "minenautica:skyray_ambient_5",
+		"pitch" : 1
+		}
+		],
+        "subtitle": "minenautica:subtitles.skyray.ambient"
+    },
+"skyray.hurt": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:skyray_hurt_1",
+		"pitch" : 1
+		},
+		{
+         "name" : "minenautica:skyray_hurt_2",
+		"pitch" : 1
+		},
+		{
+         "name" : "minenautica:skyray_hurt_3",
+		"pitch" : 1
+		}
+		],
+        "subtitle": "minenautica:subtitles.skyray.hurt"
+    },
+"skyray.death": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:skyray_hurt_1",
+		"pitch" : 0.6
+		},
+		{
+         "name" : "minenautica:skyray_hurt_2",
+		"pitch" : 0.6
+		},
+		{
+         "name" : "minenautica:skyray_hurt_3",
+		"pitch" : 0.6
+		}
+		],
+        "subtitle": "minenautica:subtitles.skyray.death"
+    },
+"minenautica_portal.ambient": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:minenautica_portal_ambient",
+		"pitch" : 1
+		}
+		],
+        "subtitle": "minenautica:subtitles.minenautica_portal.ambient"
+    },
+"minenautica_portal.trigger": {
+        "category": "record",
+        "sounds": [
+		{
+         "name" : "minenautica:minenautica_portal_trigger",
+		"pitch" : 1
+		}
+		],
+        "subtitle": "minenautica:subtitles.minenautica_portal.trigger"
+    }
+}

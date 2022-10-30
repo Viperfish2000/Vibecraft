@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "vscomod:block/ash_planks",
+        "top": "vscomod:block/ash_planks",
+        "side": "vscomod:block/ash_planks"
+    }
+}

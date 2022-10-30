@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bread"
+    },
+    "X": [
+      {
+        "item": "vscomod:avocado"
+      }
+    ]
+  },
+  "result": {
+    "item": "vscomod:avocado_toast",
+    "count": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "vscomod:block/crate" },
+        "facing=west": { "model": "vscomod:block/crate", "y": 90 },
+        "facing=north": { "model": "vscomod:block/crate", "y": 180 },
+        "facing=east": { "model": "vscomod:block/crate", "y": 270 }
+    }
+}

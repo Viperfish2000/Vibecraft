@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "vscomod:block/walnut_door_bottom",
+        "top": "vscomod:block/walnut_door_top"
+    }
+}

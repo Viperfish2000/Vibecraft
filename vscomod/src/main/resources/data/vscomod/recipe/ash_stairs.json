@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "vscomod:ash_planks"
+    }
+  },
+  "result": {
+    "item": "vscomod:ash_stairs",
+    "count": 4
+  }
+}

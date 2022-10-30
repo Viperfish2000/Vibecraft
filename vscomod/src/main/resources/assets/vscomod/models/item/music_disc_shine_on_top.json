@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vscomod:item/music_disc_shine_on_top"
+    }
+}

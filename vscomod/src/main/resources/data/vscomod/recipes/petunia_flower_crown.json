@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:string",
+      "item": "vscomod:petunia"
+    }
+  ],
+  "result": {
+    "item": "vscomod:dandelion_flower_crown"
+  }
+}
